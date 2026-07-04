@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ernest Zimba,am an 18 year old aspiring entrepreneur from lusaka, zambia
 - 👀 I’m interested in building companies/solutions of the future that help people.
-- 🌱 I’m currently learning ai and machine learning primarily learning python programming.
+- 🌱 I’m currently upskilling in AI and Machine Learning - Deep learning and Building AI agents and RAG pipelines.
 - 💞️ I’m looking to collaborate on ai projects.
 - 📫 Reach me on https://www.facebook.com/share/18AYhktfj9
 - Reach me on https://www.linkdin.com/in/ernest-zimba-904661318...
